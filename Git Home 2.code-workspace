@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Course Projects/Images"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
